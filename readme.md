@@ -17,4 +17,4 @@ on AppStudio 2.3 or higher can be used
 
 ### Topics
 
-Device, TrispectorP, Acquisition, User-Interface, Sample, SICK-AppSpace
+device, trispectorp, acquisition, user-interface, sample, sick-appspace
